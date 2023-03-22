@@ -1,4 +1,4 @@
-<!DOCTYPEhtml >
+<!DOCTYPE html >
 < html = lang="pt-br" >
     < cabeça >
         < meta  charset =" utf-8 " >
